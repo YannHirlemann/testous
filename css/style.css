@@ -23,6 +23,7 @@ body {
   border-radius: 50px;
   padding: 10px 20px;
   transition: 0.3s;
+  font-weight: bold;
 }
 
 .boite:hover {
